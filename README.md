@@ -14,7 +14,3 @@ Pickup a binary version [here](https://github.com/nigel5/hashchecker-five/releas
   * First release
   * MD5, SHA-1, SHA-256, and SHA-512
   * Easily compare your checksum with the calculated checksum
-  
-#### License
-
-See [LICENSE](https://github.com/nigel5/hashchecker-five/blob/master/LICENSE)
